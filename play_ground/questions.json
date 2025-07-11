@@ -1,0 +1,103 @@
+[
+  {
+    "question": "Apakah kucing memakan ayam?",
+    "choices": [
+      "Tidak itu beracun bagi kucing",
+      "Tidak kucing tidak suka ayam",
+      "Iya kadang kucing memakan anak ayam",
+      "Tidak kucing berteman dengan ayam"
+    ],
+    "answer": "Iya kadang kucing memakan anak ayam"
+  },
+  {
+    "question": "Matahari adalah planet",
+    "choices": [
+      "iya matahari adalah sebuah planet besar",
+      "Tidak matahari itu adalah mahluk hidup",
+      "Iya matahari adalah sebuah planet biasa",
+      "Tidak matahari adalah sebuah bintang"
+    ],
+    "answer": "Tidak matahari adalah sebuah bintang"
+  },
+  {
+    "question": "Kucing suka tikus",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "sapi menykai rumput",
+    "choices": [
+      "ya sapi suka rumput dan memakanya",
+      "tidak sapi tidak suka rumput",
+      "ya kadang dia memakanya tapi dia tidak terlalu suka",
+      "tidak bagi sapi rumput itu beracun"
+    ],
+    "answer": "ya sapi suka rumput dan memakanya"
+  },
+  {
+    "question": "Di minecrat herobrine benar benar ada",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "Kura kura adalah amfibi",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Minecraft adalah game buatan...",
+    "choices": [
+      "Notch",
+      "Steve",
+      "Jackblack",
+      "Elon musk"
+    ],
+    "answer": "Notch"
+  },
+  {
+    "question": "Domba adalah reptil",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Ibu kota negara Australia adalah?",
+    "choices": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "answer": "Canberra",
+    "type": "custom"
+  },
+  {
+    "question": "Ibukota Indonesia adalah Jakarta.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "type": "tf"
+  },
+  {
+    "question": "Ayam suka makan cacing",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "type": "tf"
+  }
+]
